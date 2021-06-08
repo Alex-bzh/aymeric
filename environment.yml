@@ -1,0 +1,10 @@
+name: aymeric-environment
+channels:
+  - conda-forge
+dependencies:
+  - scipy
+  - scikit-learn
+  - numpy
+  - pandas
+  - matplotlib
+  - rise
